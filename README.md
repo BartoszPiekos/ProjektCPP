@@ -1,2 +1,2 @@
 # ProjektCPP
-Pliki .cpp i .h warz z dokumentacją
+Pliki .cpp i .h wraz z dokumentacją
